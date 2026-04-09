@@ -1,0 +1,13 @@
+{
+  "bank_id": "permata_bank_id",
+  "country": "ID",
+  "name": "Permata Bank",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/PermataBank_logo.svg"
+  },
+  "swift_codes": [
+    "BBBAIDJA"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "bank_id": "usaa_us",
+  "country": "US",
+  "name": "USAA",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idfKs_wVB0/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX\u0026t=1668516110787"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "bank_id": "gotyme_bank_ph",
+  "country": "PH",
+  "name": "GoTyme",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://www.gotyme.com.ph/static/gotyme-logo.svg"
+  },
+  "swift_codes": [
+    "GOTYPHM2"
+  ]
+}

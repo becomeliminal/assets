@@ -1,0 +1,13 @@
+{
+  "bank_id": "bcr_ro",
+  "country": "RO",
+  "name": "BCR",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idkyg5BBOs/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX"
+  },
+  "swift_codes": [
+    "RNCBROBU"
+  ]
+}

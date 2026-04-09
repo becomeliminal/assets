@@ -1,0 +1,13 @@
+{
+  "bank_id": "air_bank_cz",
+  "country": "CZ",
+  "name": "Air Bank",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/ida7J1VY_R/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX"
+  },
+  "swift_codes": [
+    "AIRACZPP"
+  ]
+}

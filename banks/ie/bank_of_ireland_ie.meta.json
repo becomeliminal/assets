@@ -1,0 +1,13 @@
+{
+  "bank_id": "bank_of_ireland_ie",
+  "country": "IE",
+  "name": "Bank of Ireland",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://logos-world.net/wp-content/uploads/2020/12/Bank-of-Ireland-Logo.png"
+  },
+  "swift_codes": [
+    "BOFIIE2D"
+  ]
+}

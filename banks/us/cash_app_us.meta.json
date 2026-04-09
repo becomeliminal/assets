@@ -1,0 +1,10 @@
+{
+  "bank_id": "cash_app_us",
+  "country": "US",
+  "name": "Cash App",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idptpWk0S_/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX\u0026t=1668515464147"
+  }
+}

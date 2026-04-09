@@ -1,0 +1,13 @@
+{
+  "bank_id": "first_abu_dhabi_bank_ae",
+  "country": "AE",
+  "name": "FAB",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idbS4DWuNw/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX"
+  },
+  "swift_codes": [
+    "NBABORW"
+  ]
+}

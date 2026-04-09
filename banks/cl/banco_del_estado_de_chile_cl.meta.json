@@ -1,0 +1,13 @@
+{
+  "bank_id": "banco_del_estado_de_chile_cl",
+  "country": "CL",
+  "name": "BancoEstado",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idPMuqW3-C/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX"
+  },
+  "swift_codes": [
+    "BECHCLRM"
+  ]
+}

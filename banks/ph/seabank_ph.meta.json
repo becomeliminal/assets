@@ -1,0 +1,10 @@
+{
+  "bank_id": "seabank_ph",
+  "country": "PH",
+  "name": "SeaBank",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/SeaBank_logo.svg/512px-SeaBank_logo.svg.png"
+  }
+}

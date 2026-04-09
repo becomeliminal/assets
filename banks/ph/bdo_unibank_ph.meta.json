@@ -1,0 +1,13 @@
+{
+  "bank_id": "bdo_unibank_ph",
+  "country": "PH",
+  "name": "BDO",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/BDO_Unibank_logo.svg"
+  },
+  "swift_codes": [
+    "BNORPHMM"
+  ]
+}

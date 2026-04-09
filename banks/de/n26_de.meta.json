@@ -1,0 +1,13 @@
+{
+  "bank_id": "n26_de",
+  "country": "DE",
+  "name": "N26",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idrMp227Ng/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX\u0026t=1681661444358"
+  },
+  "swift_codes": [
+    "NTSBDEB1"
+  ]
+}

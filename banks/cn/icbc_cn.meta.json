@@ -1,0 +1,13 @@
+{
+  "bank_id": "icbc_cn",
+  "country": "CN",
+  "name": "ICBC",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/ICBC_logo.svg"
+  },
+  "swift_codes": [
+    "ICBKCNBJ"
+  ]
+}

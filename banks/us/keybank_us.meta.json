@@ -1,0 +1,13 @@
+{
+  "bank_id": "keybank_us",
+  "country": "US",
+  "name": "KeyBank",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idfKdvCTnv/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX\u0026t=1668515565643"
+  },
+  "swift_codes": [
+    "KEYBUS33"
+  ]
+}

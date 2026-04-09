@@ -1,0 +1,13 @@
+{
+  "bank_id": "inbursa_mx",
+  "country": "MX",
+  "name": "Inbursa",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Grupo_Financiero_Inbursa_logo.svg"
+  },
+  "swift_codes": [
+    "INBUMXMM"
+  ]
+}

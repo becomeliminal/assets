@@ -1,0 +1,13 @@
+{
+  "bank_id": "northern_trust_us",
+  "country": "US",
+  "name": "Northern Trust",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idVbCxpzlD/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX\u0026t=1668515632652"
+  },
+  "swift_codes": [
+    "CNORUS44"
+  ]
+}

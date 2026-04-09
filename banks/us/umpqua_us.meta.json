@@ -1,0 +1,13 @@
+{
+  "bank_id": "umpqua_us",
+  "country": "US",
+  "name": "Umpqua",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idSfbYkWwH/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX\u0026t=1668516107827"
+  },
+  "swift_codes": [
+    "UMPQUS6P"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "bank_id": "metro_bank_gb",
+  "country": "GB",
+  "name": "Metro Bank",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idt8W_6CCu/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX\u0026t=1681204241400"
+  },
+  "swift_codes": [
+    "MBTCGB2L"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "bank_id": "bank_central_asia_id",
+  "country": "ID",
+  "name": "BCA",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bank_Central_Asia.svg"
+  },
+  "swift_codes": [
+    "CENAIDJA"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "bank_id": "pnc_us",
+  "country": "US",
+  "name": "PNC",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idC1R9f3HV/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX\u0026t=1668515684787"
+  },
+  "swift_codes": [
+    "PNCCUS33"
+  ]
+}

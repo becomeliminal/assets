@@ -1,0 +1,13 @@
+{
+  "bank_id": "banco_pichincha_pe",
+  "country": "PE",
+  "name": "Banco Pichincha",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idTqE2bhzC/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX"
+  },
+  "swift_codes": [
+    "FINAPEPL"
+  ]
+}

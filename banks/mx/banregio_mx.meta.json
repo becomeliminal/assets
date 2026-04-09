@@ -1,0 +1,13 @@
+{
+  "bank_id": "banregio_mx",
+  "country": "MX",
+  "name": "Banregio",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/BANREGIO_NUEVO_LOGO-02.svg"
+  },
+  "swift_codes": [
+    "RGIOMXMT"
+  ]
+}

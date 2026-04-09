@@ -1,0 +1,13 @@
+{
+  "bank_id": "caixa_geral_de_dep_sitos_pt",
+  "country": "PT",
+  "name": "Caixa Geral de Depósitos",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://www.cgd.pt/Institucional/Identidade-Corporativa/PublishingImages/CGD_LOGO_POS_RGB.png"
+  },
+  "swift_codes": [
+    "CGDIPTPL"
+  ]
+}

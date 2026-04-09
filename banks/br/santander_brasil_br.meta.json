@@ -1,0 +1,13 @@
+{
+  "bank_id": "santander_brasil_br",
+  "country": "BR",
+  "name": "Santander Brasil",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idWPmUE5JO/w/399/h/399/theme/light/icon.jpeg?c=1bxid64Mup7aczewSAYMX"
+  },
+  "swift_codes": [
+    "BSCHBRSP"
+  ]
+}

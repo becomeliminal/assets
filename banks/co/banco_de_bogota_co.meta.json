@@ -1,0 +1,13 @@
+{
+  "bank_id": "banco_de_bogota_co",
+  "country": "CO",
+  "name": "Banco de Bogotá",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idvrD87TWY/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX"
+  },
+  "swift_codes": [
+    "BBOGCOBB"
+  ]
+}

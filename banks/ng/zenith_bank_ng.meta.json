@@ -1,0 +1,13 @@
+{
+  "bank_id": "zenith_bank_ng",
+  "country": "NG",
+  "name": "Zenith Bank",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Zenith_Bank_logo.svg"
+  },
+  "swift_codes": [
+    "ZEIBNGLA"
+  ]
+}

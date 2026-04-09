@@ -1,0 +1,10 @@
+{
+  "bank_id": "picpay_br",
+  "country": "BR",
+  "name": "PicPay",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/id-EZkq3JI/w/200/h/200/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX\u0026t=176448451473"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "bank_id": "kasikornbank_th",
+  "country": "TH",
+  "name": "KBank",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/id1M3TGXBK/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX"
+  },
+  "swift_codes": [
+    "KASITHBK"
+  ]
+}

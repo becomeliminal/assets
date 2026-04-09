@@ -1,0 +1,13 @@
+{
+  "bank_id": "boc_hk",
+  "country": "HK",
+  "name": "Bank of China",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idW8v4GmoH/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX"
+  },
+  "swift_codes": [
+    "BKCHHKHH"
+  ]
+}

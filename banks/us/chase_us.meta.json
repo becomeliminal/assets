@@ -1,0 +1,13 @@
+{
+  "bank_id": "chase_us",
+  "country": "US",
+  "name": "Chase",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idudVYts5w/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX\u0026t=1668074266977"
+  },
+  "swift_codes": [
+    "CHASUS33"
+  ]
+}

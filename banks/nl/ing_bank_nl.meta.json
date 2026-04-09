@@ -1,0 +1,13 @@
+{
+  "bank_id": "ing_bank_nl",
+  "country": "NL",
+  "name": "ING Bank",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://logos-world.net/wp-content/uploads/2020/12/ING-Logo.png"
+  },
+  "swift_codes": [
+    "INGBNL2A"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "bank_id": "bndes_br",
+  "country": "BR",
+  "name": "BNDES",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/BNDES_logo.svg"
+  },
+  "swift_codes": [
+    "BNDEBRSP"
+  ]
+}

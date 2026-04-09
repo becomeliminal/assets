@@ -1,0 +1,13 @@
+{
+  "bank_id": "national_bank_of_greece_gr",
+  "country": "GR",
+  "name": "National Bank of Greece",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://www.nbg.gr/content/dam/nbg/images/logos/nbg-logo.png"
+  },
+  "swift_codes": [
+    "ETHNGRAA"
+  ]
+}

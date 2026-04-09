@@ -1,0 +1,13 @@
+{
+  "bank_id": "bank_cimb_niaga_id",
+  "country": "ID",
+  "name": "CIMB Niaga",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/CIMB_Niaga_logo.svg"
+  },
+  "swift_codes": [
+    "BNIAIDJA"
+  ]
+}

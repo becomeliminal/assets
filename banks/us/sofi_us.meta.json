@@ -1,0 +1,10 @@
+{
+  "bank_id": "sofi_us",
+  "country": "US",
+  "name": "SoFi",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idvhpOhasl/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX\u0026t=1668516058987"
+  }
+}

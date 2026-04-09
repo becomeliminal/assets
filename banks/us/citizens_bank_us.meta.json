@@ -1,0 +1,13 @@
+{
+  "bank_id": "citizens_bank_us",
+  "country": "US",
+  "name": "Citizens",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idJYe7HPuB/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX\u0026t=1668515483671"
+  },
+  "swift_codes": [
+    "CTZIUS33"
+  ]
+}

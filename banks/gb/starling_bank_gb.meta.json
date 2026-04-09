@@ -1,0 +1,13 @@
+{
+  "bank_id": "starling_bank_gb",
+  "country": "GB",
+  "name": "Starling Bank",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/id65Uj_bLX/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX\u0026t=1700838654267"
+  },
+  "swift_codes": [
+    "SRLGGB2L"
+  ]
+}

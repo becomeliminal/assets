@@ -1,0 +1,13 @@
+{
+  "bank_id": "boc_cn",
+  "country": "CN",
+  "name": "BOC",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Bank_of_China_logo.svg"
+  },
+  "swift_codes": [
+    "BKCHCNBJ"
+  ]
+}

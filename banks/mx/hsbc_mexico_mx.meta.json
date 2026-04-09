@@ -1,0 +1,13 @@
+{
+  "bank_id": "hsbc_mexico_mx",
+  "country": "MX",
+  "name": "HSBC México",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/HSBC_logo_%282018%29.svg"
+  },
+  "swift_codes": [
+    "BIMEMXMM"
+  ]
+}

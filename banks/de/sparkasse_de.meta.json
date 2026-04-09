@@ -1,0 +1,13 @@
+{
+  "bank_id": "sparkasse_de",
+  "country": "DE",
+  "name": "Sparkasse",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://www.sparkasse.de/content/dam/sparkasse/common/images/logo/sparkasse-logo.png"
+  },
+  "swift_codes": [
+    "SPKODEFF"
+  ]
+}

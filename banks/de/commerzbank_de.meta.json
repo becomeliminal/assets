@@ -1,0 +1,13 @@
+{
+  "bank_id": "commerzbank_de",
+  "country": "DE",
+  "name": "Commerzbank",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://logos-world.net/wp-content/uploads/2020/12/Commerzbank-Logo.png"
+  },
+  "swift_codes": [
+    "COBADEFF"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "bank_id": "bank_negara_indonesia_id",
+  "country": "ID",
+  "name": "BNI",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://upload.wikimedia.org/wikipedia/id/5/55/BNI_logo.svg"
+  },
+  "swift_codes": [
+    "BNINIDJA"
+  ]
+}

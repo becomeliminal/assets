@@ -1,0 +1,10 @@
+{
+  "bank_id": "paypal_us",
+  "country": "US",
+  "name": "PayPal",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idpLPbiRfE/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX\u0026t=1668515658971"
+  }
+}

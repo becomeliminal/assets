@@ -1,0 +1,13 @@
+{
+  "bank_id": "access_bank_ng",
+  "country": "NG",
+  "name": "Access Bank",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Access_Bank_logo.svg"
+  },
+  "swift_codes": [
+    "ABNGNGLA"
+  ]
+}

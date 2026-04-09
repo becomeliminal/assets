@@ -1,0 +1,13 @@
+{
+  "bank_id": "banco_safra_br",
+  "country": "BR",
+  "name": "Banco Safra",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_Banco_Safra.svg"
+  },
+  "swift_codes": [
+    "SAFRBRSP"
+  ]
+}

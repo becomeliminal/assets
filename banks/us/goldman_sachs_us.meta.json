@@ -1,0 +1,13 @@
+{
+  "bank_id": "goldman_sachs_us",
+  "country": "US",
+  "name": "Goldman Sachs",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idBPDAADpI/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX\u0026t=1668515539073"
+  },
+  "swift_codes": [
+    "GSCHUS33"
+  ]
+}

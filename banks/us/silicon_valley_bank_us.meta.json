@@ -1,0 +1,13 @@
+{
+  "bank_id": "silicon_valley_bank_us",
+  "country": "US",
+  "name": "SVB",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idrCWX3NfW/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX\u0026t=1668516049850"
+  },
+  "swift_codes": [
+    "SVBKUS6S"
+  ]
+}

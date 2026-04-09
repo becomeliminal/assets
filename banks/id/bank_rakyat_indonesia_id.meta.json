@@ -1,0 +1,13 @@
+{
+  "bank_id": "bank_rakyat_indonesia_id",
+  "country": "ID",
+  "name": "BRI",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_BRI.png"
+  },
+  "swift_codes": [
+    "BRINIDJA"
+  ]
+}

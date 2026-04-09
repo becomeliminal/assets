@@ -1,0 +1,13 @@
+{
+  "bank_id": "banco_de_credito_pe",
+  "country": "PE",
+  "name": "BCP",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/id8jhAHAhk/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX"
+  },
+  "swift_codes": [
+    "BCPLPEPL"
+  ]
+}

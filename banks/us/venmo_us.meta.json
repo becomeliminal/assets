@@ -1,0 +1,10 @@
+{
+  "bank_id": "venmo_us",
+  "country": "US",
+  "name": "Venmo",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idNBBiT3OB/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX\u0026t=1668516118251"
+  }
+}

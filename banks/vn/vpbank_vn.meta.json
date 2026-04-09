@@ -1,0 +1,13 @@
+{
+  "bank_id": "vpbank_vn",
+  "country": "VN",
+  "name": "VPBank",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/VPBank_logo.svg"
+  },
+  "swift_codes": [
+    "VPBKVNVX"
+  ]
+}

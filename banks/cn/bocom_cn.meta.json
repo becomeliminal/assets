@@ -1,0 +1,13 @@
+{
+  "bank_id": "bocom_cn",
+  "country": "CN",
+  "name": "BoCom",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Bank_of_Communications_logo.svg"
+  },
+  "swift_codes": [
+    "COMMCNSH"
+  ]
+}

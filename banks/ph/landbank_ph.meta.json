@@ -1,0 +1,13 @@
+{
+  "bank_id": "landbank_ph",
+  "country": "PH",
+  "name": "LandBank",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Land_Bank_of_the_Philippines_logo.svg"
+  },
+  "swift_codes": [
+    "TLBPPHMM"
+  ]
+}

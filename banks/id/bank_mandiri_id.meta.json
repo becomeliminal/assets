@@ -1,0 +1,13 @@
+{
+  "bank_id": "bank_mandiri_id",
+  "country": "ID",
+  "name": "Bank Mandiri",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Bank_Mandiri_logo_2016.svg"
+  },
+  "swift_codes": [
+    "BMRIIDJA"
+  ]
+}

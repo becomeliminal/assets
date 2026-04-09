@@ -1,0 +1,13 @@
+{
+  "bank_id": "bank_tabungan_negara_id",
+  "country": "ID",
+  "name": "BTN",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Bank_Tabungan_Negara_logo.svg"
+  },
+  "swift_codes": [
+    "BTANIDJA"
+  ]
+}

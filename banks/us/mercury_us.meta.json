@@ -1,0 +1,10 @@
+{
+  "bank_id": "mercury_us",
+  "country": "US",
+  "name": "Mercury",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idh1pSixhv/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX\u0026t=1668515590315"
+  }
+}

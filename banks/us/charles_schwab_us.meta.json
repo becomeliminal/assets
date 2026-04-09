@@ -1,0 +1,13 @@
+{
+  "bank_id": "charles_schwab_us",
+  "country": "US",
+  "name": "Schwab",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idL0iThbuW/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX\u0026t=1668515474413"
+  },
+  "swift_codes": [
+    "SCHBUS33"
+  ]
+}

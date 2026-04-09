@@ -1,0 +1,13 @@
+{
+  "bank_id": "islami_bank_bd",
+  "country": "BD",
+  "name": "Islami Bank",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idJMyxiaVy/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX"
+  },
+  "swift_codes": [
+    "IBABORW"
+  ]
+}

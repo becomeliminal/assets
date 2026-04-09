@@ -1,0 +1,13 @@
+{
+  "bank_id": "cr_dit_agricole_fr",
+  "country": "FR",
+  "name": "Crédit Agricole",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://logos-world.net/wp-content/uploads/2021/02/Credit-Agricole-Logo.png"
+  },
+  "swift_codes": [
+    "AGRIFRPP"
+  ]
+}

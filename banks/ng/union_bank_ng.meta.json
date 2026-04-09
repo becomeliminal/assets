@@ -1,0 +1,13 @@
+{
+  "bank_id": "union_bank_ng",
+  "country": "NG",
+  "name": "Union Bank",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Union_Bank_of_Nigeria_logo.svg"
+  },
+  "swift_codes": [
+    "UBNINGLA"
+  ]
+}

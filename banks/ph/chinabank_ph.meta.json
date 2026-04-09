@@ -1,0 +1,13 @@
+{
+  "bank_id": "chinabank_ph",
+  "country": "PH",
+  "name": "China Bank",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/China_Banking_Corporation_logo.svg"
+  },
+  "swift_codes": [
+    "CHBKPHMM"
+  ]
+}

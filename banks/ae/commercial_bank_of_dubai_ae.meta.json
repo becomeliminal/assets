@@ -1,0 +1,13 @@
+{
+  "bank_id": "commercial_bank_of_dubai_ae",
+  "country": "AE",
+  "name": "CBD",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/id2MHYNVWs/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX"
+  },
+  "swift_codes": [
+    "CBDUAEAD"
+  ]
+}

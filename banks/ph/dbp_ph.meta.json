@@ -1,0 +1,13 @@
+{
+  "bank_id": "dbp_ph",
+  "country": "PH",
+  "name": "DBP",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Development_Bank_of_the_Philippines_logo.svg"
+  },
+  "swift_codes": [
+    "DBPHPHMM"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "bank_id": "nubank_br",
+  "country": "BR",
+  "name": "Nubank",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idXWQ2eElW/w/1079/h/1079/theme/light/icon.png?c=1bxid64Mup7aczewSAYMX"
+  }
+}

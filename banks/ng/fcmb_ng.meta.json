@@ -1,0 +1,13 @@
+{
+  "bank_id": "fcmb_ng",
+  "country": "NG",
+  "name": "FCMB",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/First_City_Monument_Bank_logo.svg"
+  },
+  "swift_codes": [
+    "FCMBNGLA"
+  ]
+}

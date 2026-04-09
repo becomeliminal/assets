@@ -1,0 +1,10 @@
+{
+  "bank_id": "ramp_us",
+  "country": "US",
+  "name": "Ramp",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idAHM7i71F/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX\u0026t=1668515703268"
+  }
+}

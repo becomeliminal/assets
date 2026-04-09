@@ -1,0 +1,13 @@
+{
+  "bank_id": "op_financial_group_fi",
+  "country": "FI",
+  "name": "OP Financial Group",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://www.op.fi/wps/wcm/connect/8d4c4c8b-6b2c-4b8f-8b9f-4b4b4b4b4b4b/OP_logo_RGB.png"
+  },
+  "swift_codes": [
+    "OKOYFIHH"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "bank_id": "kbc_bank_be",
+  "country": "BE",
+  "name": "KBC Bank",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://logos-world.net/wp-content/uploads/2020/12/KBC-Logo.png"
+  },
+  "swift_codes": [
+    "KREDBEBB"
+  ]
+}

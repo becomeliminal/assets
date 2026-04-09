@@ -1,0 +1,13 @@
+{
+  "bank_id": "resona_jp",
+  "country": "JP",
+  "name": "Resona",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Resona_Holdings_logo.svg"
+  },
+  "swift_codes": [
+    "DIWAJPJT"
+  ]
+}

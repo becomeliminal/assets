@@ -1,0 +1,13 @@
+{
+  "bank_id": "wells_fargo_us",
+  "country": "US",
+  "name": "Wells Fargo",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idVCed0KqE/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX\u0026t=1679401842839"
+  },
+  "swift_codes": [
+    "WFBIUS6S"
+  ]
+}

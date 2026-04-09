@@ -1,0 +1,13 @@
+{
+  "bank_id": "m_and_t_us",
+  "country": "US",
+  "name": "M\u0026T Bank",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idkPOmkLea/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX\u0026t=1668515578889"
+  },
+  "swift_codes": [
+    "MANTUS33"
+  ]
+}

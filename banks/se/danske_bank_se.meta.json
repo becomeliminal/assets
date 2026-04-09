@@ -1,0 +1,13 @@
+{
+  "bank_id": "danske_bank_se",
+  "country": "SE",
+  "name": "Danske Bank",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idxbDB5K4c/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX"
+  },
+  "swift_codes": [
+    "DABASESX"
+  ]
+}
