@@ -1,0 +1,10 @@
+{
+  "bank_id": "golden_1_us",
+  "country": "US",
+  "name": "Golden 1",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idpLu0ig7J/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX"
+  }
+}

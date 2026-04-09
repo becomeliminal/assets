@@ -1,0 +1,13 @@
+{
+  "bank_id": "fidelity_bank_ng",
+  "country": "NG",
+  "name": "Fidelity Bank",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Fidelity_Bank_Nigeria_logo.svg"
+  },
+  "swift_codes": [
+    "FIDTNGLA"
+  ]
+}

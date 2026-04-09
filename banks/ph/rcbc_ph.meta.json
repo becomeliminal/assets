@@ -1,0 +1,13 @@
+{
+  "bank_id": "rcbc_ph",
+  "country": "PH",
+  "name": "RCBC",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Rizal_Commercial_Banking_Corporation_logo.svg"
+  },
+  "swift_codes": [
+    "RCBCPHMM"
+  ]
+}

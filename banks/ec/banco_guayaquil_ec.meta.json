@@ -1,0 +1,13 @@
+{
+  "bank_id": "banco_guayaquil_ec",
+  "country": "EC",
+  "name": "Banco Guayaquil",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idByfeVIyl/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX"
+  },
+  "swift_codes": [
+    "GUAYECEG"
+  ]
+}

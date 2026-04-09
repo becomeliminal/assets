@@ -1,0 +1,13 @@
+{
+  "bank_id": "banco_sabadell_es",
+  "country": "ES",
+  "name": "Banco Sabadell",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://logos-world.net/wp-content/uploads/2021/02/Banco-Sabadell-Logo.png"
+  },
+  "swift_codes": [
+    "BSABESBB"
+  ]
+}

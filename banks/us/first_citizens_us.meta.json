@@ -1,0 +1,13 @@
+{
+  "bank_id": "first_citizens_us",
+  "country": "US",
+  "name": "First Citizens",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idaH9WvNKo/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX\u0026t=1668515517146"
+  },
+  "swift_codes": [
+    "FCNBUS3C"
+  ]
+}

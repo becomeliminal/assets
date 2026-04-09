@@ -1,0 +1,13 @@
+{
+  "bank_id": "banco_santander_chile_cl",
+  "country": "CL",
+  "name": "Santander Chile",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/id9Bno-0u6/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX"
+  },
+  "swift_codes": [
+    "BSCHCLRM"
+  ]
+}

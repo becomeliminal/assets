@@ -1,0 +1,13 @@
+{
+  "bank_id": "bradesco_br",
+  "country": "BR",
+  "name": "Bradesco",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idGQWGCF26/theme/light/symbol.svg?c=1bxid64Mup7aczewSAYMX"
+  },
+  "swift_codes": [
+    "BBDEBRSP"
+  ]
+}

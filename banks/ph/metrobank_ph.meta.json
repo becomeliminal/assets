@@ -1,0 +1,13 @@
+{
+  "bank_id": "metrobank_ph",
+  "country": "PH",
+  "name": "Metrobank",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Metropolitan_Bank_and_Trust_Company_logo.svg"
+  },
+  "swift_codes": [
+    "MBTCPHMM"
+  ]
+}

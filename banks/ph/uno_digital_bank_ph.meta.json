@@ -1,0 +1,10 @@
+{
+  "bank_id": "uno_digital_bank_ph",
+  "country": "PH",
+  "name": "UNO",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://www.uno.bank/static/uno-logo.svg"
+  }
+}

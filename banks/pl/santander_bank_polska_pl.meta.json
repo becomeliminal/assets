@@ -1,0 +1,13 @@
+{
+  "bank_id": "santander_bank_polska_pl",
+  "country": "PL",
+  "name": "Santander",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idWPmUE5JO/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX"
+  },
+  "swift_codes": [
+    "WBKPPLPP"
+  ]
+}

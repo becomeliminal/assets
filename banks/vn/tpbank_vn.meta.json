@@ -1,0 +1,13 @@
+{
+  "bank_id": "tpbank_vn",
+  "country": "VN",
+  "name": "TPBank",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/TPBank_logo.svg"
+  },
+  "swift_codes": [
+    "TPBVVNVX"
+  ]
+}

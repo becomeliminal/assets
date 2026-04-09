@@ -1,0 +1,13 @@
+{
+  "bank_id": "morgan_stanley_us",
+  "country": "US",
+  "name": "Morgan Stanley",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idpsVvtp5e/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX\u0026t=1668515614851"
+  },
+  "swift_codes": [
+    "MSTCUS33"
+  ]
+}

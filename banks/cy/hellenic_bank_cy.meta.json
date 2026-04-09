@@ -1,0 +1,13 @@
+{
+  "bank_id": "hellenic_bank_cy",
+  "country": "CY",
+  "name": "Hellenic Bank",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://www.hellenicbank.com/images/logo/hellenic-bank-logo.png"
+  },
+  "swift_codes": [
+    "HEBACY2N"
+  ]
+}

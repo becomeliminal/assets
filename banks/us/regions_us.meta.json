@@ -1,0 +1,13 @@
+{
+  "bank_id": "regions_us",
+  "country": "US",
+  "name": "Regions",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/id2paMj0u7/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX\u0026t=1668515712217"
+  },
+  "swift_codes": [
+    "UPNBUS44"
+  ]
+}

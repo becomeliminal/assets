@@ -1,0 +1,13 @@
+{
+  "bank_id": "spar_nord_bank_dk",
+  "country": "DK",
+  "name": "Spar Nord",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idPuymhp95/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX"
+  },
+  "swift_codes": [
+    "SPNODK22"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "bank_id": "nationwide_building_society_gb",
+  "country": "GB",
+  "name": "Nationwide Building Society",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/id56Mz03iM/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX\u0026t=1754500383548"
+  },
+  "swift_codes": [
+    "NAIAGB2L"
+  ]
+}

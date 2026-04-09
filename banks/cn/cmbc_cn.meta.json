@@ -1,0 +1,13 @@
+{
+  "bank_id": "cmbc_cn",
+  "country": "CN",
+  "name": "CMBC",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/China_Minsheng_Bank_logo.svg"
+  },
+  "swift_codes": [
+    "MSBCCNBJ"
+  ]
+}

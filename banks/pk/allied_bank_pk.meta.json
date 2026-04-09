@@ -1,0 +1,13 @@
+{
+  "bank_id": "allied_bank_pk",
+  "country": "PK",
+  "name": "ABL",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/id6l3a87T3/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX"
+  },
+  "swift_codes": [
+    "ABPAPKKA"
+  ]
+}

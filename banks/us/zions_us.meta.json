@@ -1,0 +1,13 @@
+{
+  "bank_id": "zions_us",
+  "country": "US",
+  "name": "Zions",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idRq4zg3RA/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX\u0026t=1668516131675"
+  },
+  "swift_codes": [
+    "ZABORSLC"
+  ]
+}

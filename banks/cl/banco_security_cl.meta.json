@@ -1,0 +1,13 @@
+{
+  "bank_id": "banco_security_cl",
+  "country": "CL",
+  "name": "Banco Security",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idCFnL6Mvf/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX"
+  },
+  "swift_codes": [
+    "BSCLCLRM"
+  ]
+}

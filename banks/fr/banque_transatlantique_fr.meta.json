@@ -1,0 +1,13 @@
+{
+  "bank_id": "banque_transatlantique_fr",
+  "country": "FR",
+  "name": "Banque Transatlantique",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/ida1QW-IV7/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX\u0026t=1754289994501"
+  },
+  "swift_codes": [
+    "CMCIFRPP"
+  ]
+}

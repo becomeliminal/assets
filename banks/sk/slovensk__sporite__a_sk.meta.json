@@ -1,0 +1,13 @@
+{
+  "bank_id": "slovensk__sporite__a_sk",
+  "country": "SK",
+  "name": "Slovenská sporiteľňa",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://www.slsp.sk/images/logo/slsp-logo.png"
+  },
+  "swift_codes": [
+    "GIBASKBX"
+  ]
+}

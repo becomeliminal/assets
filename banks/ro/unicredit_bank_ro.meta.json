@@ -1,0 +1,13 @@
+{
+  "bank_id": "unicredit_bank_ro",
+  "country": "RO",
+  "name": "UniCredit Bank",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/id1sYIZ8xJ/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX"
+  },
+  "swift_codes": [
+    "BACXROBU"
+  ]
+}

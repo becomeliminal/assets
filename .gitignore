@@ -5,3 +5,7 @@ Thumbs.db
 *.swp
 node_modules/
 .vercel
+
+# Tooling lives outside this repo. Anything that lands here under scripts/
+# was committed by mistake.
+scripts/

@@ -1,0 +1,13 @@
+{
+  "bank_id": "psbc_cn",
+  "country": "CN",
+  "name": "PSBC",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Postal_Savings_Bank_of_China_logo.svg"
+  },
+  "swift_codes": [
+    "PSBCCNBJ"
+  ]
+}

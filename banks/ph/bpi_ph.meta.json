@@ -1,0 +1,13 @@
+{
+  "bank_id": "bpi_ph",
+  "country": "PH",
+  "name": "BPI",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Bank_of_the_Philippine_Islands_logo.svg"
+  },
+  "swift_codes": [
+    "BOPIPHMM"
+  ]
+}

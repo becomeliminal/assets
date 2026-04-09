@@ -1,0 +1,13 @@
+{
+  "bank_id": "hancock_whitney_us",
+  "country": "US",
+  "name": "Hancock Whitney",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idcf2dX5g1/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX"
+  },
+  "swift_codes": [
+    "HANAUS44"
+  ]
+}

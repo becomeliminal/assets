@@ -1,0 +1,13 @@
+{
+  "bank_id": "barclays_bank_gb",
+  "country": "GB",
+  "name": "Barclays Bank",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idn8PFm1UN/w/199/h/199/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX\u0026t=1667562724286"
+  },
+  "swift_codes": [
+    "BUKBGB22"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "bank_id": "brex_us",
+  "country": "US",
+  "name": "Brex",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idEM2E1kBh/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX\u0026t=1668515446867"
+  }
+}

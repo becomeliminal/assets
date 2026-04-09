@@ -1,0 +1,13 @@
+{
+  "bank_id": "unicredit_it",
+  "country": "IT",
+  "name": "UniCredit",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://logos-world.net/wp-content/uploads/2020/12/UniCredit-Logo.png"
+  },
+  "swift_codes": [
+    "UNCRITMM"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "bank_id": "revolut_us",
+  "country": "US",
+  "name": "Revolut",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idkTaHd18D/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX\u0026t=1697548241418"
+  }
+}

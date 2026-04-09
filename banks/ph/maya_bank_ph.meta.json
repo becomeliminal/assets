@@ -1,0 +1,13 @@
+{
+  "bank_id": "maya_bank_ph",
+  "country": "PH",
+  "name": "Maya",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Maya_%28digital_bank%29_logo.svg"
+  },
+  "swift_codes": [
+    "MYYAPHM2"
+  ]
+}

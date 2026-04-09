@@ -1,0 +1,13 @@
+{
+  "bank_id": "caixabank_es",
+  "country": "ES",
+  "name": "CaixaBank",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://logos-world.net/wp-content/uploads/2021/02/CaixaBank-Logo.png"
+  },
+  "swift_codes": [
+    "CAIXESBB"
+  ]
+}

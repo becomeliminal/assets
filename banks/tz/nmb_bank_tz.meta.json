@@ -1,0 +1,13 @@
+{
+  "bank_id": "nmb_bank_tz",
+  "country": "TZ",
+  "name": "NMB Bank",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idJYTOLb6C/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX"
+  },
+  "swift_codes": [
+    "NMIBTZTZ"
+  ]
+}

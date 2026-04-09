@@ -1,0 +1,13 @@
+{
+  "bank_id": "bif_peru_pe",
+  "country": "PE",
+  "name": "BanBif",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idW2qf1xXC/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX"
+  },
+  "swift_codes": [
+    "BIFSPEPL"
+  ]
+}

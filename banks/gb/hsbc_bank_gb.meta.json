@@ -1,0 +1,13 @@
+{
+  "bank_id": "hsbc_bank_gb",
+  "country": "GB",
+  "name": "HSBC Bank",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/iduuDE90jY/w/240/h/240/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX\u0026t=1667808663462"
+  },
+  "swift_codes": [
+    "HBUKGB4B"
+  ]
+}

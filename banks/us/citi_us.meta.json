@@ -1,0 +1,13 @@
+{
+  "bank_id": "citi_us",
+  "country": "US",
+  "name": "Citi",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idTHPM_cPN/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX\u0026t=1668515898498"
+  },
+  "swift_codes": [
+    "CITIUS33"
+  ]
+}

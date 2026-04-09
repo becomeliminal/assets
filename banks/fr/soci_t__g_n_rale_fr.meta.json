@@ -1,0 +1,13 @@
+{
+  "bank_id": "soci_t__g_n_rale_fr",
+  "country": "FR",
+  "name": "Société Générale",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://logos-world.net/wp-content/uploads/2021/02/Societe-Generale-Logo.png"
+  },
+  "swift_codes": [
+    "SOGEFRPP"
+  ]
+}

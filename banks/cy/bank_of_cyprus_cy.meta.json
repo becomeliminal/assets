@@ -1,0 +1,13 @@
+{
+  "bank_id": "bank_of_cyprus_cy",
+  "country": "CY",
+  "name": "Bank of Cyprus",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://www.bankofcyprus.com/globalassets/images/logo/boc-logo.png"
+  },
+  "swift_codes": [
+    "BCYPCY2N"
+  ]
+}

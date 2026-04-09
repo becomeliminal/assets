@@ -1,0 +1,13 @@
+{
+  "bank_id": "banco_do_brasil_br",
+  "country": "BR",
+  "name": "Banco do Brasil",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idIXh-yQ32/w/400/h/400/theme/light/icon.jpeg?c=1bxid64Mup7aczewSAYMX"
+  },
+  "swift_codes": [
+    "BRASBRRJ"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "bank_id": "eastern_bank_bd",
+  "country": "BD",
+  "name": "EBL",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idCH8cCE4L/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX"
+  },
+  "swift_codes": [
+    "EABORW"
+  ]
+}

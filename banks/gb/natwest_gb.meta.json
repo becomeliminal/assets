@@ -1,0 +1,13 @@
+{
+  "bank_id": "natwest_gb",
+  "country": "GB",
+  "name": "NatWest",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idxVhatJlz/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX\u0026t=1681222240959"
+  },
+  "swift_codes": [
+    "NWBKGB2L"
+  ]
+}

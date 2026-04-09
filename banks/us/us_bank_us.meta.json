@@ -1,0 +1,13 @@
+{
+  "bank_id": "us_bank_us",
+  "country": "US",
+  "name": "U.S. Bank",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idppROCTNi/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX\u0026t=1668079646498"
+  },
+  "swift_codes": [
+    "USBKUS44"
+  ]
+}

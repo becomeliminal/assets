@@ -1,0 +1,13 @@
+{
+  "bank_id": "capital_one_us",
+  "country": "US",
+  "name": "Capital One",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idPNqOt0qQ/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX\u0026t=1668515457886"
+  },
+  "swift_codes": [
+    "HIBKUS3E"
+  ]
+}

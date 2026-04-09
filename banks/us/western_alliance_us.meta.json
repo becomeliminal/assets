@@ -1,0 +1,13 @@
+{
+  "bank_id": "western_alliance_us",
+  "country": "US",
+  "name": "Western Alliance",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/id7lYxB7bK/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX\u0026t=1668516124267"
+  },
+  "swift_codes": [
+    "WESAUS66"
+  ]
+}

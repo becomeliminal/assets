@@ -1,0 +1,13 @@
+{
+  "bank_id": "vietcombank_vn",
+  "country": "VN",
+  "name": "Vietcombank",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Vietcombank_logo.svg"
+  },
+  "swift_codes": [
+    "BFTVVNVX"
+  ]
+}

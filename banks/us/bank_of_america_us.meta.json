@@ -1,0 +1,13 @@
+{
+  "bank_id": "bank_of_america_us",
+  "country": "US",
+  "name": "Bank of America",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/ide4lTCz-B/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX\u0026t=1667572494402"
+  },
+  "swift_codes": [
+    "BOFAUS3N"
+  ]
+}

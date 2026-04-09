@@ -1,0 +1,13 @@
+{
+  "bank_id": "cmb_cn",
+  "country": "CN",
+  "name": "CMB",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/China_Merchants_Bank_logo.svg"
+  },
+  "swift_codes": [
+    "CMBCCNBS"
+  ]
+}

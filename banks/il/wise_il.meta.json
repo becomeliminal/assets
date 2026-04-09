@@ -1,0 +1,13 @@
+{
+  "bank_id": "wise_il",
+  "country": "IL",
+  "name": "Wise",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idmQ-dd6w3/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX\u0026t=1668516125731"
+  },
+  "swift_codes": [
+    "TRWIILTTXXX"
+  ]
+}

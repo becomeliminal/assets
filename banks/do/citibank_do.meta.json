@@ -1,0 +1,13 @@
+{
+  "bank_id": "citibank_do",
+  "country": "DO",
+  "name": "Citibank",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/id5D8Mhy2O/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX"
+  },
+  "swift_codes": [
+    "CITIDOSD"
+  ]
+}

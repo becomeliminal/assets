@@ -1,0 +1,13 @@
+{
+  "bank_id": "valley_national_us",
+  "country": "US",
+  "name": "Valley",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idPX5L8PoE/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX"
+  },
+  "swift_codes": [
+    "VALNUS3N"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "bank_id": "mashreq_bank_ae",
+  "country": "AE",
+  "name": "Mashreq",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idq9Bao8gh/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX"
+  },
+  "swift_codes": [
+    "BOMLAEAD"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "bank_id": "banking_circle_lu",
+  "country": "LU",
+  "name": "Banking Circle",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://cdn.brandfetch.io/idn0-tv5qh/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX"
+  },
+  "swift_codes": [
+    "BCIRLULL"
+  ]
+}

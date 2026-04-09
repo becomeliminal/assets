@@ -1,0 +1,13 @@
+{
+  "bank_id": "bank_ocbc_nisp_id",
+  "country": "ID",
+  "name": "OCBC NISP",
+  "source": {
+    "fetched_at": "2026-04-09",
+    "kind": "brandfetch_archived",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/OCBC_NISP_logo.svg"
+  },
+  "swift_codes": [
+    "NISPIDJA"
+  ]
+}
