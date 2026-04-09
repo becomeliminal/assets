@@ -1,0 +1,54 @@
+name: Trademark takedown
+description: Request removal of a logo or mark you own from this repository.
+title: "[Takedown] <symbol or asset name>"
+labels: ["takedown"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to request removal of a logo, mark, or other branded image
+        you own from this repository. We honor legitimate takedown requests
+        within 24 hours.
+
+  - type: input
+    id: asset-path
+    attributes:
+      label: Asset path
+      description: The full path of the file you want removed (e.g. `investing/stocks/AAPL.png`).
+      placeholder: investing/stocks/EXAMPLE.png
+    validations:
+      required: true
+
+  - type: input
+    id: trademark-owner
+    attributes:
+      label: Trademark owner
+      description: The legal entity that owns the mark.
+    validations:
+      required: true
+
+  - type: input
+    id: contact
+    attributes:
+      label: Your role / contact
+      description: Your name, role at the trademark owner, and a contact email we can verify against.
+    validations:
+      required: true
+
+  - type: textarea
+    id: basis
+    attributes:
+      label: Basis for the request
+      description: Briefly explain the legal or policy basis for the takedown.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: affirmation
+    attributes:
+      label: Affirmation
+      options:
+        - label: I affirm that I am authorized to act on behalf of the trademark owner.
+          required: true
+        - label: I understand this request will be reviewed and that legitimate requests are honored within 24 hours.
+          required: true
