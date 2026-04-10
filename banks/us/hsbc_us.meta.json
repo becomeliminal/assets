@@ -3,9 +3,9 @@
   "country": "US",
   "name": "HSBC",
   "source": {
-    "fetched_at": "2026-04-09",
+    "fetched_at": "2026-04-10",
     "kind": "brandfetch_archived",
-    "url": "https://cdn.brandfetch.io/iduuDE90jY/w/240/h/240/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX\u0026t=1667808663462"
+    "url": "https://img.logo.dev/us.hsbc.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ\u0026size=512\u0026format=png"
   },
   "swift_codes": [
     "MRMDUS33"

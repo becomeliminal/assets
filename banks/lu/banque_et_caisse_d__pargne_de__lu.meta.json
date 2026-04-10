@@ -1,0 +1,13 @@
+{
+  "bank_id": "banque_et_caisse_d__pargne_de__lu",
+  "country": "LU",
+  "name": "Banque et Caisse d'Épargne de l'État",
+  "source": {
+    "fetched_at": "2026-04-10",
+    "kind": "brandfetch_archived",
+    "url": "https://img.logo.dev/spuerkeess.lu?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ\u0026size=512\u0026format=png"
+  },
+  "swift_codes": [
+    "BCEELULL"
+  ]
+}

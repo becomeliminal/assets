@@ -3,9 +3,9 @@
   "country": "GR",
   "name": "National Bank of Greece",
   "source": {
-    "fetched_at": "2026-04-09",
+    "fetched_at": "2026-04-10",
     "kind": "brandfetch_archived",
-    "url": "https://www.nbg.gr/content/dam/nbg/images/logos/nbg-logo.png"
+    "url": "https://cdn.brandfetch.io/id_KmkYdwD/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX"
   },
   "swift_codes": [
     "ETHNGRAA"

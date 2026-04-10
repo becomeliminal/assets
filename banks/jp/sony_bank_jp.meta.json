@@ -3,9 +3,9 @@
   "country": "JP",
   "name": "Sony Bank",
   "source": {
-    "fetched_at": "2026-04-09",
+    "fetched_at": "2026-04-10",
     "kind": "brandfetch_archived",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Sony_logo.svg"
+    "url": "https://img.logo.dev/sonybank.net?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ\u0026size=512\u0026format=png"
   },
   "swift_codes": [
     "SONYJPJ1"

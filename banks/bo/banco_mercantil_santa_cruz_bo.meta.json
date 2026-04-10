@@ -1,0 +1,13 @@
+{
+  "bank_id": "banco_mercantil_santa_cruz_bo",
+  "country": "BO",
+  "name": "Banco Mercantil Santa Cruz",
+  "source": {
+    "fetched_at": "2026-04-10",
+    "kind": "brandfetch_archived",
+    "url": "https://img.logo.dev/bmsc.com.bo?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ\u0026size=512\u0026format=png"
+  },
+  "swift_codes": [
+    "MERBBOLX"
+  ]
+}

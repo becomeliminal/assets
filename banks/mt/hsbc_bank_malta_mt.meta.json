@@ -1,0 +1,13 @@
+{
+  "bank_id": "hsbc_bank_malta_mt",
+  "country": "MT",
+  "name": "HSBC Bank Malta",
+  "source": {
+    "fetched_at": "2026-04-10",
+    "kind": "brandfetch_archived",
+    "url": "https://img.logo.dev/hsbc.com.mt?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ\u0026size=512\u0026format=png"
+  },
+  "swift_codes": [
+    "MMEBMTMT"
+  ]
+}

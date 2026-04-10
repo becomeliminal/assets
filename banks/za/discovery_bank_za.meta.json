@@ -1,0 +1,13 @@
+{
+  "bank_id": "discovery_bank_za",
+  "country": "ZA",
+  "name": "Discovery Bank",
+  "source": {
+    "fetched_at": "2026-04-10",
+    "kind": "brandfetch_archived",
+    "url": "https://img.logo.dev/discoverybank.co.za?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ\u0026size=512\u0026format=png"
+  },
+  "swift_codes": [
+    "DABORW"
+  ]
+}
