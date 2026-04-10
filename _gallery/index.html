@@ -1,0 +1,39 @@
+<!doctype html><html lang=en><head><meta charset=utf-8><meta name=viewport content='width=device-width,initial-scale=1'><title>assets gallery</title><style>
+:root{color-scheme:light dark;--bg:#fafafa;--fg:#111;--muted:#666;--border:#e5e5e5;--card:#fff;--hover:#f5f5f5}
+@media(prefers-color-scheme:dark){:root{--bg:#0b0d10;--fg:#e6e8eb;--muted:#8a8f96;--border:#1f242b;--card:#11151a;--hover:#181d24}}
+*{box-sizing:border-box}html,body{background:var(--bg);color:var(--fg);margin:0;padding:0}
+body{font:14px/1.5 -apple-system,Inter,system-ui,sans-serif}
+html{scroll-padding-top:80px}
+header{padding:20px 32px;border-bottom:1px solid var(--border);position:sticky;top:0;background:var(--bg);z-index:10;display:flex;align-items:center;gap:16px}
+header h1{margin:0;font-size:18px;font-weight:600}
+header .back{color:var(--muted);text-decoration:none;font-size:20px;line-height:1}
+header .back:hover{color:var(--fg)}
+.summary{color:var(--muted);font-size:13px;margin-left:auto}
+main{padding:32px;max-width:1400px;margin:0 auto}
+h2{margin:32px 0 12px;font-size:18px;font-weight:600}
+h3{margin:24px 0 12px;font-size:15px;font-weight:600}
+
+.callouts{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:24px;margin-top:32px}
+.callout{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:24px;text-decoration:none;color:var(--fg);transition:background .15s}
+.callout:hover{background:var(--hover)}
+.callout .title{font-size:20px;font-weight:600;margin-bottom:4px}
+.callout .count{color:var(--muted);font-size:14px;margin-bottom:16px}
+.callout .previews{display:flex;gap:8px;flex-wrap:wrap}
+.callout .previews img{width:48px;height:48px;object-fit:contain;border-radius:6px;background:repeating-conic-gradient(#0001 0 25%,transparent 0 50%) 50%/10px 10px}
+
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:12px}
+.card{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:12px;text-align:center}
+.card img{width:72px;height:72px;object-fit:contain;border-radius:6px;background:repeating-conic-gradient(#0001 0 25%,transparent 0 50%) 50%/12px 12px}
+.card .label{margin-top:6px;font-weight:600;font-size:12px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.card .sub{font-size:10px;color:var(--muted);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+
+.country-nav{margin-bottom:16px;display:flex;flex-wrap:wrap;gap:6px}
+.country-nav a{color:var(--fg);text-decoration:none;padding:3px 8px;border:1px solid var(--border);border-radius:4px;font-size:11px}
+.country-nav a:hover{background:var(--hover)}
+</style></head><body>
+<header><h1>becomeliminal/assets</h1><span class=summary>2026-04-10 10:31 UTC</span></header>
+<main><div class=callouts>
+<a href="liminal.html" class=callout><div class=title>Liminal Brand</div><div class=count>12 assets</div><div class=previews><img src="/liminal/brand/adaptive-icon.png" loading=lazy><img src="/liminal/brand/appstore.png" loading=lazy><img src="/liminal/brand/liminal-banner.svg" loading=lazy><img src="/liminal/brand/liminal-text.svg" loading=lazy><img src="/liminal/brand/logo-black.svg" loading=lazy><img src="/liminal/brand/logo-icon-white.png" loading=lazy></div></a>
+<a href="stocks.html" class=callout><div class=title>Stocks</div><div class=count>248 logos</div><div class=previews><img src="/investing/stocks/AAPL.png" loading=lazy><img src="/investing/stocks/GOOGL.png" loading=lazy><img src="/investing/stocks/MSFT.png" loading=lazy><img src="/investing/stocks/AMZN.png" loading=lazy><img src="/investing/stocks/TSLA.png" loading=lazy><img src="/investing/stocks/NVDA.png" loading=lazy></div></a>
+<a href="banks.html" class=callout><div class=title>Banks</div><div class=count>508 logos across 62 countries</div><div class=previews><img src="/banks/de/n26_de.png" loading=lazy><img src="/banks/gb/hsbc_bank_gb.png" loading=lazy><img src="/banks/gb/monzo_bank_gb.png" loading=lazy><img src="/banks/gb/revolut_gb.png" loading=lazy><img src="/banks/gb/wise_gb.png" loading=lazy><img src="/banks/us/chase_us.png" loading=lazy></div></a>
+</div></main></body></html>

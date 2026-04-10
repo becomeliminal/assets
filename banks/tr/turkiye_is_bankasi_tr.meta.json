@@ -1,0 +1,13 @@
+{
+  "bank_id": "turkiye_is_bankasi_tr",
+  "country": "TR",
+  "name": "İş Bankası",
+  "source": {
+    "fetched_at": "2026-04-10",
+    "kind": "brandfetch_archived",
+    "url": "https://img.logo.dev/isbank.com.tr?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ\u0026size=512\u0026format=png"
+  },
+  "swift_codes": [
+    "ISBKTRIS"
+  ]
+}

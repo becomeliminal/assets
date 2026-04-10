@@ -1,0 +1,13 @@
+{
+  "bank_id": "kcb_bank_ke",
+  "country": "KE",
+  "name": "KCB Bank",
+  "source": {
+    "fetched_at": "2026-04-10",
+    "kind": "brandfetch_archived",
+    "url": "https://img.logo.dev/kcbgroup.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ\u0026size=512\u0026format=png"
+  },
+  "swift_codes": [
+    "KCBLKENX"
+  ]
+}

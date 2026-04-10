@@ -1,0 +1,13 @@
+{
+  "bank_id": "pko_bank_polski_pl",
+  "country": "PL",
+  "name": "PKO Bank Polski",
+  "source": {
+    "fetched_at": "2026-04-10",
+    "kind": "brandfetch_archived",
+    "url": "https://img.logo.dev/pkobp.pl?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ\u0026size=512\u0026format=png"
+  },
+  "swift_codes": [
+    "BPKOPLPW"
+  ]
+}

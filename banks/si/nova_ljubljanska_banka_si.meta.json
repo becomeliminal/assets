@@ -1,0 +1,13 @@
+{
+  "bank_id": "nova_ljubljanska_banka_si",
+  "country": "SI",
+  "name": "Nova Ljubljanska banka",
+  "source": {
+    "fetched_at": "2026-04-10",
+    "kind": "brandfetch_archived",
+    "url": "https://img.logo.dev/nlb.si?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ\u0026size=512\u0026format=png"
+  },
+  "swift_codes": [
+    "LJBASI2X"
+  ]
+}

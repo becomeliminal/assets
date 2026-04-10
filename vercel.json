@@ -30,7 +30,7 @@
       ]
     },
     {
-      "source": "/banks/_gallery/(.*)",
+      "source": "/_gallery/(.*)",
       "headers": [
         {
           "key": "Cache-Control",
